@@ -1,0 +1,7 @@
+C:\Users\kingp\OneDrive\Documents\GitHub\chiptool\bin\x64\Debug\chiptool.exe.config
+C:\Users\kingp\OneDrive\Documents\GitHub\chiptool\bin\x64\Debug\chiptool.exe
+C:\Users\kingp\OneDrive\Documents\GitHub\chiptool\bin\x64\Debug\chiptool.pdb
+C:\Users\kingp\OneDrive\Documents\GitHub\chiptool\obj\x64\Debug\chiptool.csproj.AssemblyReference.cache
+C:\Users\kingp\OneDrive\Documents\GitHub\chiptool\obj\x64\Debug\chiptool.csproj.CoreCompileInputs.cache
+C:\Users\kingp\OneDrive\Documents\GitHub\chiptool\obj\x64\Debug\chiptool.exe
+C:\Users\kingp\OneDrive\Documents\GitHub\chiptool\obj\x64\Debug\chiptool.pdb
